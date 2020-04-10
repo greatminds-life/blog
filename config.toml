@@ -1,4 +1,4 @@
-baseurl = "greatminds-life.github.io/blog/"
+baseurl = ""
 title = "GREATMINDS"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
