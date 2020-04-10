@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GREATMINDS</title>
+    <title>greatminds</title>
     <link>https://greatminds-life.github.io/blog/</link>
-    <description>Recent content on GREATMINDS</description>
+    <description>Recent content on greatminds</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://greatminds-life.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is the sample post</title>
+      <link>https://greatminds-life.github.io/blog/post/first-post/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://greatminds-life.github.io/blog/post/first-post/</guid>
+      <description>&lt;p&gt;This is why I wanted to start here.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Basic HTML Elements</title>

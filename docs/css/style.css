@@ -812,7 +812,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	float: left;
 	padding: 3px;
 	margin: 0 25px 0 0;
-	border: 1px solid #ebebeb;
+	border: 0px solid #ebebeb;
 }
 
 .authorbox__header {

@@ -5,7 +5,7 @@ linktitle: Migrating from Jekyll
 menu:
   main:
     name: Jekyll migration
-    weight: 10
+    weight: 3
 ---
 
 ## Move static content to `static`
