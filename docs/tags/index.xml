@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GREATMINDS</title>
-    <link>greatminds.life/blog/tags/</link>
+    <link>greatminds-life.github.io/blog/tags/</link>
     <description>Recent content in Tags on GREATMINDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="greatminds.life/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="greatminds-life.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Basic Elements</title>
-      <link>greatminds.life/blog/tags/basic-elements/</link>
+      <link>greatminds-life.github.io/blog/tags/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/basic-elements/</guid>
+      <guid>greatminds-life.github.io/blog/tags/basic-elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>greatminds.life/blog/tags/css/</link>
+      <link>greatminds-life.github.io/blog/tags/css/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/css/</guid>
+      <guid>greatminds-life.github.io/blog/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>greatminds.life/blog/tags/html/</link>
+      <link>greatminds-life.github.io/blog/tags/html/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/html/</guid>
+      <guid>greatminds-life.github.io/blog/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>greatminds.life/blog/tags/development/</link>
+      <link>greatminds-life.github.io/blog/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/development/</guid>
+      <guid>greatminds-life.github.io/blog/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>greatminds.life/blog/tags/go/</link>
+      <link>greatminds-life.github.io/blog/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/go/</guid>
+      <guid>greatminds-life.github.io/blog/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>greatminds.life/blog/tags/golang/</link>
+      <link>greatminds-life.github.io/blog/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/golang/</guid>
+      <guid>greatminds-life.github.io/blog/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>greatminds.life/blog/tags/hugo/</link>
+      <link>greatminds-life.github.io/blog/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/hugo/</guid>
+      <guid>greatminds-life.github.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>greatminds.life/blog/tags/templates/</link>
+      <link>greatminds-life.github.io/blog/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/templates/</guid>
+      <guid>greatminds-life.github.io/blog/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>greatminds.life/blog/tags/themes/</link>
+      <link>greatminds-life.github.io/blog/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>greatminds.life/blog/tags/themes/</guid>
+      <guid>greatminds-life.github.io/blog/tags/themes/</guid>
       <description></description>
     </item>
     
